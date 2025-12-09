@@ -1,18 +1,14 @@
 # 📦 QR Code Generator – Vue.js
 
-Um gerador de QR Code desenvolvido com **Vue.js**, permitindo criar QR Codes a partir de qualquer texto.
+A QR Code generator built with **Vue.js**, allowing you to create QR Codes from any text.
 
----
+## 🚀 Features
 
-## 🚀 Funcionalidades
+- Generate QR Codes from text  
+- Real-time automatic updates  
+- Clean and organized Vue components  
 
-- Geração de QR Code a partir de texto
-- Atualização automática em tempo real
-- Código organizado em componentes Vue
+## 🛠️ Technologies Used
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Vue.js**
-- **qrcode** (biblioteca para gerar QR Codes)
+- **Vue.js**  
+- **qrcode** (library used to generate QR Codes)
